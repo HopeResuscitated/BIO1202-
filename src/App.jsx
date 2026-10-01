@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react';
-import catalog from '../public/course-files.json';
+import catalog from './course-files.json';
 
 const chapters = catalog.categories.filter(c => /^\d{2} CH/.test(c));
 const icon = ext => ({pdf:'PDF',pptx:'PPT',ppt:'PPT',docx:'DOC',doc:'DOC',xlsx:'XLS',html:'WEB',txt:'TXT'}[ext] || 'FILE');
