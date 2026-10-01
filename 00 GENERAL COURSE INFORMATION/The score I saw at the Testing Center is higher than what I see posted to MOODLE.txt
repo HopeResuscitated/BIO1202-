@@ -1,0 +1,7 @@
+The score I saw at the Testing Center is higher than what I see posted to MOODLE.  WHAT HAPPENED?
+
+When you are done with your exam and press "SUBMIT", the computer will show you two scores.
+
+One score is your RAW SCORE (i.e. 75/118) and the other is your PERCENTAGE SCORE (i.e. 63.6%).
+
+I use exact scores when calculating grades (i.e. 79.6%) whereas the Testing Center will show you rounded up scores (i.e. 80%).

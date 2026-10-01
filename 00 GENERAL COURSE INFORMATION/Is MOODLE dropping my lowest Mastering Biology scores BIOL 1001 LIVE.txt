@@ -1,0 +1,12 @@
+Is MOODLE dropping my lowest Mastering Biology scores?
+
+We drop 10% of the lowest scores for Mastering Biology assignments.  This can be any
+combination of quizzes or homeworks.  I know, historically, that this will end up being
+around 3-4 scores.  So, I set MOODLE up to DROP the lowest 4 scores right now.  That is why
+you may have a few zeros for assignments, but still have close to a 100% average.
+
+This way, you will always know what your EXACT average is for the MB homework/quiz
+portion of your grade (which accounts for 10% of your overall grade in BIOL 1001).
+
+MOODLE now does INDICATE which scores are being dropped in your grade book, sp trust
+me...it is accurate.

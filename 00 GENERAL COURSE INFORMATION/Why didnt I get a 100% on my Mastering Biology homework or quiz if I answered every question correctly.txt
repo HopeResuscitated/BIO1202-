@@ -1,0 +1,65 @@
+Hi All,
+
+The reason that you may not be getting a 100% on your homeworks and/or quizzes (even though
+you got every question correct) is explained below.
+
+Basically, for questions that have multiple attempts, if you do not select the correct answer
+on your first try, it will penalize you a fraction of the question value.
+
+For a more detailed explanation, please see the grading policies explained in detail below for
+HOMWORK and QUIZ questions.
+
+Thanks,
+Adam
+
+******************************************************************************************
+HOMEWORK Grading Policy
+
+Number of answer attempts per question is: 3
+
+You gain credit for:
+
+-Correctly answering a question in a Part
+-Correctly answering a question in a Hint
+-Not opening a Hint (2% bonus)
+
+You lose credit for:
+
+-Exhausting all attempts or giving up on a question in a Part
+-Incorrectly answering a question in a Part or Hint
+
+Late submissions: receive no credit.
+
+Hints are helpful clues or simpler questions that guide you to the answer. Hints are not
+available for all questions.  There is no penalty for leaving questions in Hints unanswered.
+
+Grading of Incorrect Answers before the last attempt:
+
+-You lose 100%/(# of options - 1) credit per incorrect answer on multiple-choice and true/false questions.
+-You lose 3% credit per incorrect answer on questions that are not multiple-choice or true/false.
+
+******************************************************************************************
+QUIZ Grading Policy
+
+Number of answer attempts per question is: 1
+
+You gain credit for:
+
+-Correctly answering a question in a Part
+-Correctly answering a question in a Hint
+-Not opening a Hint (2% bonus)
+
+You lose credit for:
+
+-Exhausting all attempts or giving up on a question in a Part
+-Incorrectly answering a question in a Part or Hint
+
+Late submissions: receive no credit.
+
+Hints are helpful clues or simpler questions that guide you to the answer. Hints are not available
+for all questions.  There is no penalty for leaving questions in Hints unanswered.
+
+Grading of Incorrect Answers before the last attempt:
+
+-You lose 100%/(# of options - 1) credit per incorrect answer on multiple-choice and true/false questions.
+-You lose 3% credit per incorrect answer on questions that are not multiple-choice or true/false.

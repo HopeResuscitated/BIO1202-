@@ -1,0 +1,28 @@
+Help!  I don't see the pictures or animations for some of the Mastering Biology questions.
+
+If you do NOT see the pictures and/or animations for some of the questions in Mastering Biology,
+you need to update your computer for the programs listed below.
+If you want to be sure that you have the correct programs/players installed on your computer,
+please use the link below to do a browser & plug-in check:
+
+http://browsertuneup.pearsoncmg.com/mastering-a/
+
+Web addresses for specific programs are also listed below:
+
+Java
+https://www.java.com/en/
+
+Adobe Flash
+http://get.adobe.com/flashplayer/
+
+Adobe Shockwave
+http://get.adobe.com/shockwave/
+
+Apple Quicktime
+http://www.apple.com/quicktime/download/
+
+Once you have updated your computer and then rebooted it, all of the questions should now load
+correctly.
+
+Thanks,
+Adam
