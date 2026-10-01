@@ -1,0 +1,815 @@
+{
+  "course": "BIOL 1202",
+  "term": "Fall 2026",
+  "repository": "https://github.com/HopeResuscitated/BIO1202-",
+  "categories": [
+    "00 GENERAL COURSE INFORMATION",
+    "02 First Day of Lecture Tuesday, 8-25-2026- Attendance is manda",
+    "03 SYLLABUS & MASTERING BIOLOGY INFORMATION",
+    "05 EXAM INFORMATION AND HOW TO SCHEDULE YOUR EXAMS",
+    "07 IMPORTANT ANNOUNCEMENTS",
+    "08 CH 22- Descent with Modification, A Darwinian View of Life (",
+    "09 CH 23- The Evolution of Populations",
+    "10 CH 24- The Origin of Species",
+    "11 CH 25- The History of Life on Earth",
+    "12 EXAM 1",
+    "13 CH 26- Phylogeny and the Tree of Life",
+    "14 CH 27- Bacteria and Archaea",
+    "15 CH 28- Protists",
+    "Course home"
+  ],
+  "files": [
+    {
+      "path": "00 GENERAL COURSE INFORMATION/BIOL 1202 LIVE - I am registered through Disability Services-how does that affect me in this course.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "BIOL 1202 LIVE - I am registered through Disability Services-how does that affect me in this course.txt",
+      "title": "BIOL 1202 LIVE   I am registered through Disability Services how does that affect me in this course",
+      "ext": "txt",
+      "size": 3174,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/BIOL%201202%20LIVE%20-%20I%20am%20registered%20through%20Disability%20Services-how%20does%20that%20affect%20me%20in%20this%20course.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Can I stop and start an assignment in Mastering Biology or must I finish the whole thing in one session.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Can I stop and start an assignment in Mastering Biology or must I finish the whole thing in one session.txt",
+      "title": "Can I stop and start an assignment in Mastering Biology or must I finish the whole thing in one session",
+      "ext": "txt",
+      "size": 809,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Can%20I%20stop%20and%20start%20an%20assignment%20in%20Mastering%20Biology%20or%20must%20I%20finish%20the%20whole%20thing%20in%20one%20session.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Can I use a Mastering Biology account that someone else is no longer using.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Can I use a Mastering Biology account that someone else is no longer using.txt",
+      "title": "Can I use a Mastering Biology account that someone else is no longer using",
+      "ext": "txt",
+      "size": 242,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Can%20I%20use%20a%20Mastering%20Biology%20account%20that%20someone%20else%20is%20no%20longer%20using.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Do we have lecture on the EXAM and pretest days.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Do we have lecture on the EXAM and pretest days.txt",
+      "title": "Do we have lecture on the EXAM and pretest days",
+      "ext": "txt",
+      "size": 1253,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Do%20we%20have%20lecture%20on%20the%20EXAM%20and%20pretest%20days.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/During or after the pre-test can we take any notes of what we missed or did not unerstand.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "During or after the pre-test can we take any notes of what we missed or did not unerstand.txt",
+      "title": "During or after the pre test can we take any notes of what we missed or did not unerstand",
+      "ext": "txt",
+      "size": 575,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/During%20or%20after%20the%20pre-test%20can%20we%20take%20any%20notes%20of%20what%20we%20missed%20or%20did%20not%20unerstand.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Help!  I dont see the pictures or animations for some of the Mastering Biology questions.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Help!  I dont see the pictures or animations for some of the Mastering Biology questions.txt",
+      "title": "Help!  I dont see the pictures or animations for some of the Mastering Biology questions",
+      "ext": "txt",
+      "size": 821,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Help!%20%20I%20dont%20see%20the%20pictures%20or%20animations%20for%20some%20of%20the%20Mastering%20Biology%20questions.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Help-I need questions answered about Mastering Biology-What should I do.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Help-I need questions answered about Mastering Biology-What should I do.txt",
+      "title": "Help I need questions answered about Mastering Biology What should I do",
+      "ext": "txt",
+      "size": 277,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Help-I%20need%20questions%20answered%20about%20Mastering%20Biology-What%20should%20I%20do.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/How are the CROSSWORD PUZZLES submitted and are they required to complete.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "How are the CROSSWORD PUZZLES submitted and are they required to complete.txt",
+      "title": "How are the CROSSWORD PUZZLES submitted and are they required to complete",
+      "ext": "txt",
+      "size": 1238,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/How%20are%20the%20CROSSWORD%20PUZZLES%20submitted%20and%20are%20they%20required%20to%20complete.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/How do I schedule my pretests and EXAMs through the Schedule Testing Center Exam link in MOODLE.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "How do I schedule my pretests and EXAMs through the Schedule Testing Center Exam link in MOODLE.txt",
+      "title": "How do I schedule my pretests and EXAMs through the Schedule Testing Center Exam link in MOODLE",
+      "ext": "txt",
+      "size": 3259,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/How%20do%20I%20schedule%20my%20pretests%20and%20EXAMs%20through%20the%20Schedule%20Testing%20Center%20Exam%20link%20in%20MOODLE.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/How much time do I have to take the exam.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "How much time do I have to take the exam.txt",
+      "title": "How much time do I have to take the exam",
+      "ext": "txt",
+      "size": 838,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/How%20much%20time%20do%20I%20have%20to%20take%20the%20exam.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/How to Email Your Professor.pdf",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "How to Email Your Professor.pdf",
+      "title": "How to Email Your Professor",
+      "ext": "pdf",
+      "size": 72043,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/How%20to%20Email%20Your%20Professor.pdf"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/I had Mastering Biology from a previous semster, can I still use it for your course.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "I had Mastering Biology from a previous semster, can I still use it for your course.txt",
+      "title": "I had Mastering Biology from a previous semster, can I still use it for your course",
+      "ext": "txt",
+      "size": 541,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/I%20had%20Mastering%20Biology%20from%20a%20previous%20semster%2C%20can%20I%20still%20use%20it%20for%20your%20course.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/I just added the course - Will I be able to see all of the emails that you sent to the class before I added.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "I just added the course - Will I be able to see all of the emails that you sent to the class before I added.txt",
+      "title": "I just added the course   Will I be able to see all of the emails that you sent to the class before I added",
+      "ext": "txt",
+      "size": 929,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/I%20just%20added%20the%20course%20-%20Will%20I%20be%20able%20to%20see%20all%20of%20the%20emails%20that%20you%20sent%20to%20the%20class%20before%20I%20added.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Instructor Introduction- Hello!  I am Dr. Adam Hrincevich....html",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Instructor Introduction- Hello!  I am Dr. Adam Hrincevich....html",
+      "title": "Instructor Introduction  Hello!  I am Dr. Adam Hrincevich...",
+      "ext": "html",
+      "size": 5489,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Instructor%20Introduction-%20Hello!%20%20I%20am%20Dr.%20Adam%20Hrincevich....html"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Is MOODLE dropping my lowest Mastering Biology scores BIOL 1001 LIVE.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Is MOODLE dropping my lowest Mastering Biology scores BIOL 1001 LIVE.txt",
+      "title": "Is MOODLE dropping my lowest Mastering Biology scores BIOL 1001 LIVE",
+      "ext": "txt",
+      "size": 676,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Is%20MOODLE%20dropping%20my%20lowest%20Mastering%20Biology%20scores%20BIOL%201001%20LIVE.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/MISSED EXAM FORM BIOL 1202 Spring 2022.pdf",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "MISSED EXAM FORM BIOL 1202 Spring 2022.pdf",
+      "title": "MISSED EXAM FORM BIOL 1202 Spring 2022",
+      "ext": "pdf",
+      "size": 38755,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/MISSED%20EXAM%20FORM%20BIOL%201202%20Spring%202022.pdf"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Midterm grades LIVE LECTURE.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Midterm grades LIVE LECTURE.txt",
+      "title": "Midterm grades LIVE LECTURE",
+      "ext": "txt",
+      "size": 1885,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Midterm%20grades%20LIVE%20LECTURE.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Missing your exam.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Missing your exam.txt",
+      "title": "Missing your exam",
+      "ext": "txt",
+      "size": 938,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Missing%20your%20exam.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/My text has not come in yet-what do I do.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "My text has not come in yet-what do I do.txt",
+      "title": "My text has not come in yet what do I do",
+      "ext": "txt",
+      "size": 1262,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/My%20text%20has%20not%20come%20in%20yet-what%20do%20I%20do.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/OFFICE HOURS- Scheduled on an individual basis.html",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "OFFICE HOURS- Scheduled on an individual basis.html",
+      "title": "OFFICE HOURS  Scheduled on an individual basis",
+      "ext": "html",
+      "size": 735,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/OFFICE%20HOURS-%20Scheduled%20on%20an%20individual%20basis.html"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/ONLINE vs LIVE courses  What is the difference.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "ONLINE vs LIVE courses  What is the difference.txt",
+      "title": "ONLINE vs LIVE courses  What is the difference",
+      "ext": "txt",
+      "size": 2324,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/ONLINE%20vs%20LIVE%20courses%20%20What%20is%20the%20difference.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/The score I saw at the Testing Center is higher than what I see posted to MOODLE.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "The score I saw at the Testing Center is higher than what I see posted to MOODLE.txt",
+      "title": "The score I saw at the Testing Center is higher than what I see posted to MOODLE",
+      "ext": "txt",
+      "size": 415,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/The%20score%20I%20saw%20at%20the%20Testing%20Center%20is%20higher%20than%20what%20I%20see%20posted%20to%20MOODLE.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/To Pretest or Not Pretest, that is the question.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "To Pretest or Not Pretest, that is the question.txt",
+      "title": "To Pretest or Not Pretest, that is the question",
+      "ext": "txt",
+      "size": 696,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/To%20Pretest%20or%20Not%20Pretest%2C%20that%20is%20the%20question.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/What can I bring to the Testing Center when I take my pretest or exam.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "What can I bring to the Testing Center when I take my pretest or exam.txt",
+      "title": "What can I bring to the Testing Center when I take my pretest or exam",
+      "ext": "txt",
+      "size": 523,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/What%20can%20I%20bring%20to%20the%20Testing%20Center%20when%20I%20take%20my%20pretest%20or%20exam.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Why didnt I get a 100% on my Mastering Biology homework or quiz if I answered every question correctly.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Why didnt I get a 100% on my Mastering Biology homework or quiz if I answered every question correctly.txt",
+      "title": "Why didnt I get a 100% on my Mastering Biology homework or quiz if I answered every question correctly",
+      "ext": "txt",
+      "size": 2293,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Why%20didnt%20I%20get%20a%20100%25%20on%20my%20Mastering%20Biology%20homework%20or%20quiz%20if%20I%20answered%20every%20question%20correctly.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Why does Mastering Biology does not work on my computer.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Why does Mastering Biology does not work on my computer.txt",
+      "title": "Why does Mastering Biology does not work on my computer",
+      "ext": "txt",
+      "size": 526,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Why%20does%20Mastering%20Biology%20does%20not%20work%20on%20my%20computer.txt"
+    },
+    {
+      "path": "00 GENERAL COURSE INFORMATION/Why should I take the pretest and how do I prepare for the Exam.txt",
+      "category": "00 GENERAL COURSE INFORMATION",
+      "filename": "Why should I take the pretest and how do I prepare for the Exam.txt",
+      "title": "Why should I take the pretest and how do I prepare for the Exam",
+      "ext": "txt",
+      "size": 3206,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/00%20GENERAL%20COURSE%20INFORMATION/Why%20should%20I%20take%20the%20pretest%20and%20how%20do%20I%20prepare%20for%20the%20Exam.txt"
+    },
+    {
+      "path": "02 First Day of Lecture Tuesday, 8-25-2026- Attendance is manda/BIOL 1202 (sec 2-4) LIVE first day INTRO FA26.pptx",
+      "category": "02 First Day of Lecture Tuesday, 8-25-2026- Attendance is manda",
+      "filename": "BIOL 1202 (sec 2-4) LIVE first day INTRO FA26.pptx",
+      "title": "BIOL 1202 (sec 2 4) LIVE first day INTRO FA26",
+      "ext": "pptx",
+      "size": 10894793,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/02%20First%20Day%20of%20Lecture%20Tuesday%2C%208-25-2026-%20Attendance%20is%20manda/BIOL%201202%20(sec%202-4)%20LIVE%20first%20day%20INTRO%20FA26.pptx"
+    },
+    {
+      "path": "03 SYLLABUS & MASTERING BIOLOGY INFORMATION/BIOL 1202 (sec 2-4) FALL 2026 Mastering Biology Registration Info_hrincevich93563.pdf",
+      "category": "03 SYLLABUS & MASTERING BIOLOGY INFORMATION",
+      "filename": "BIOL 1202 (sec 2-4) FALL 2026 Mastering Biology Registration Info_hrincevich93563.pdf",
+      "title": "BIOL 1202 (sec 2 4) FALL 2026 Mastering Biology Registration Info hrincevich93563",
+      "ext": "pdf",
+      "size": 110735,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/03%20SYLLABUS%20%26%20MASTERING%20BIOLOGY%20INFORMATION/BIOL%201202%20(sec%202-4)%20FALL%202026%20Mastering%20Biology%20Registration%20Info_hrincevich93563.pdf"
+    },
+    {
+      "path": "03 SYLLABUS & MASTERING BIOLOGY INFORMATION/BIOL 1202 (sec 2-4) LIVE COMPLETE SYLLABUS FALL 2026.pdf",
+      "category": "03 SYLLABUS & MASTERING BIOLOGY INFORMATION",
+      "filename": "BIOL 1202 (sec 2-4) LIVE COMPLETE SYLLABUS FALL 2026.pdf",
+      "title": "BIOL 1202 (sec 2 4) LIVE COMPLETE SYLLABUS FALL 2026",
+      "ext": "pdf",
+      "size": 149493,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/03%20SYLLABUS%20%26%20MASTERING%20BIOLOGY%20INFORMATION/BIOL%201202%20(sec%202-4)%20LIVE%20COMPLETE%20SYLLABUS%20FALL%202026.pdf"
+    },
+    {
+      "path": "03 SYLLABUS & MASTERING BIOLOGY INFORMATION/Mastering Biology registration problems.pdf",
+      "category": "03 SYLLABUS & MASTERING BIOLOGY INFORMATION",
+      "filename": "Mastering Biology registration problems.pdf",
+      "title": "Mastering Biology registration problems",
+      "ext": "pdf",
+      "size": 79083,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/03%20SYLLABUS%20%26%20MASTERING%20BIOLOGY%20INFORMATION/Mastering%20Biology%20registration%20problems.pdf"
+    },
+    {
+      "path": "05 EXAM INFORMATION AND HOW TO SCHEDULE YOUR EXAMS/How do I best prepare for the EXAMS-.html",
+      "category": "05 EXAM INFORMATION AND HOW TO SCHEDULE YOUR EXAMS",
+      "filename": "How do I best prepare for the EXAMS-.html",
+      "title": "How do I best prepare for the EXAMS",
+      "ext": "html",
+      "size": 8845,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/05%20EXAM%20INFORMATION%20AND%20HOW%20TO%20SCHEDULE%20YOUR%20EXAMS/How%20do%20I%20best%20prepare%20for%20the%20EXAMS-.html"
+    },
+    {
+      "path": "05 EXAM INFORMATION AND HOW TO SCHEDULE YOUR EXAMS/Students with ACCOMMODATIONS or registered through the OFFICE OF DISABILITY SERV.html",
+      "category": "05 EXAM INFORMATION AND HOW TO SCHEDULE YOUR EXAMS",
+      "filename": "Students with ACCOMMODATIONS or registered through the OFFICE OF DISABILITY SERV.html",
+      "title": "Students with ACCOMMODATIONS or registered through the OFFICE OF DISABILITY SERV",
+      "ext": "html",
+      "size": 4142,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/05%20EXAM%20INFORMATION%20AND%20HOW%20TO%20SCHEDULE%20YOUR%20EXAMS/Students%20with%20ACCOMMODATIONS%20or%20registered%20through%20the%20OFFICE%20OF%20DISABILITY%20SERV.html"
+    },
+    {
+      "path": "07 IMPORTANT ANNOUNCEMENTS/BIOL 1202 (sec 2-4) LIVE Fall 2026 calendar.pdf",
+      "category": "07 IMPORTANT ANNOUNCEMENTS",
+      "filename": "BIOL 1202 (sec 2-4) LIVE Fall 2026 calendar.pdf",
+      "title": "BIOL 1202 (sec 2 4) LIVE Fall 2026 calendar",
+      "ext": "pdf",
+      "size": 139294,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/07%20IMPORTANT%20ANNOUNCEMENTS/BIOL%201202%20(sec%202-4)%20LIVE%20Fall%202026%20calendar.pdf"
+    },
+    {
+      "path": "08 CH 22- Descent with Modification, A Darwinian View of Life (/ANSWER keys for BALL and COINS dichotomous keys.pdf",
+      "category": "08 CH 22- Descent with Modification, A Darwinian View of Life (",
+      "filename": "ANSWER keys for BALL and COINS dichotomous keys.pdf",
+      "title": "ANSWER keys for BALL and COINS dichotomous keys",
+      "ext": "pdf",
+      "size": 405631,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/08%20CH%2022-%20Descent%20with%20Modification%2C%20A%20Darwinian%20View%20of%20Life%20(/ANSWER%20keys%20for%20BALL%20and%20COINS%20dichotomous%20keys.pdf"
+    },
+    {
+      "path": "08 CH 22- Descent with Modification, A Darwinian View of Life (/CH 22 CW puzzle  ANSWERS.pdf",
+      "category": "08 CH 22- Descent with Modification, A Darwinian View of Life (",
+      "filename": "CH 22 CW puzzle  ANSWERS.pdf",
+      "title": "CH 22 CW puzzle  ANSWERS",
+      "ext": "pdf",
+      "size": 121997,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/08%20CH%2022-%20Descent%20with%20Modification%2C%20A%20Darwinian%20View%20of%20Life%20(/CH%2022%20CW%20puzzle%20%20ANSWERS.pdf"
+    },
+    {
+      "path": "08 CH 22- Descent with Modification, A Darwinian View of Life (/CH 22 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "category": "08 CH 22- Descent with Modification, A Darwinian View of Life (",
+      "filename": "CH 22 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "title": "CH 22 STUDENT outline (ADA pass) FALL 2026",
+      "ext": "pptx",
+      "size": 10078569,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/08%20CH%2022-%20Descent%20with%20Modification%2C%20A%20Darwinian%20View%20of%20Life%20(/CH%2022%20STUDENT%20outline%20(ADA%20pass)%20FALL%202026.pptx"
+    },
+    {
+      "path": "08 CH 22- Descent with Modification, A Darwinian View of Life (/CH 22 outline ADA.docx",
+      "category": "08 CH 22- Descent with Modification, A Darwinian View of Life (",
+      "filename": "CH 22 outline ADA.docx",
+      "title": "CH 22 outline ADA",
+      "ext": "docx",
+      "size": 282421,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/08%20CH%2022-%20Descent%20with%20Modification%2C%20A%20Darwinian%20View%20of%20Life%20(/CH%2022%20outline%20ADA.docx"
+    },
+    {
+      "path": "08 CH 22- Descent with Modification, A Darwinian View of Life (/INTRODUCTORY ACTIVITY using balls and coins.pdf",
+      "category": "08 CH 22- Descent with Modification, A Darwinian View of Life (",
+      "filename": "INTRODUCTORY ACTIVITY using balls and coins.pdf",
+      "title": "INTRODUCTORY ACTIVITY using balls and coins",
+      "ext": "pdf",
+      "size": 534943,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/08%20CH%2022-%20Descent%20with%20Modification%2C%20A%20Darwinian%20View%20of%20Life%20(/INTRODUCTORY%20ACTIVITY%20using%20balls%20and%20coins.pdf"
+    },
+    {
+      "path": "08 CH 22- Descent with Modification, A Darwinian View of Life (/STEP by STEP ANSWER KEY for COINS.pptx",
+      "category": "08 CH 22- Descent with Modification, A Darwinian View of Life (",
+      "filename": "STEP by STEP ANSWER KEY for COINS.pptx",
+      "title": "STEP by STEP ANSWER KEY for COINS",
+      "ext": "pptx",
+      "size": 815626,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/08%20CH%2022-%20Descent%20with%20Modification%2C%20A%20Darwinian%20View%20of%20Life%20(/STEP%20by%20STEP%20ANSWER%20KEY%20for%20COINS.pptx"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/CH 23 CW puzzle  ANSWERS.pdf",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "CH 23 CW puzzle  ANSWERS.pdf",
+      "title": "CH 23 CW puzzle  ANSWERS",
+      "ext": "pdf",
+      "size": 122877,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/CH%2023%20CW%20puzzle%20%20ANSWERS.pdf"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/CH 23 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "CH 23 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "title": "CH 23 STUDENT outline (ADA pass) FALL 2026",
+      "ext": "pptx",
+      "size": 5988929,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/CH%2023%20STUDENT%20outline%20(ADA%20pass)%20FALL%202026.pptx"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/CH 23 outline ADA.docx",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "CH 23 outline ADA.docx",
+      "title": "CH 23 outline ADA",
+      "ext": "docx",
+      "size": 210725,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/CH%2023%20outline%20ADA.docx"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/HW practice problems ANSWER KEY.pdf",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "HW practice problems ANSWER KEY.pdf",
+      "title": "HW practice problems ANSWER KEY",
+      "ext": "pdf",
+      "size": 315483,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/HW%20practice%20problems%20ANSWER%20KEY.pdf"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/HW practice problems.pdf",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "HW practice problems.pdf",
+      "title": "HW practice problems",
+      "ext": "pdf",
+      "size": 296865,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/HW%20practice%20problems.pdf"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/MORE HW problems CLASS ACTIVITY ANSWER KEY.pdf",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "MORE HW problems CLASS ACTIVITY ANSWER KEY.pdf",
+      "title": "MORE HW problems CLASS ACTIVITY ANSWER KEY",
+      "ext": "pdf",
+      "size": 62649,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/MORE%20HW%20problems%20CLASS%20ACTIVITY%20ANSWER%20KEY.pdf"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/MORE HW problems CLASS ACTIVITY.pdf",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "MORE HW problems CLASS ACTIVITY.pdf",
+      "title": "MORE HW problems CLASS ACTIVITY",
+      "ext": "pdf",
+      "size": 39650,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/MORE%20HW%20problems%20CLASS%20ACTIVITY.pdf"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/QUIZ Hardy Weinberg problems homework ANSWERS EMBEDDED.pdf",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "QUIZ Hardy Weinberg problems homework ANSWERS EMBEDDED.pdf",
+      "title": "QUIZ Hardy Weinberg problems homework ANSWERS EMBEDDED",
+      "ext": "pdf",
+      "size": 58732,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/QUIZ%20Hardy%20Weinberg%20problems%20homework%20ANSWERS%20EMBEDDED.pdf"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/QUIZ Hardy Weinberg problems homework.pdf",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "QUIZ Hardy Weinberg problems homework.pdf",
+      "title": "QUIZ Hardy Weinberg problems homework",
+      "ext": "pdf",
+      "size": 56983,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/QUIZ%20Hardy%20Weinberg%20problems%20homework.pdf"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/simple HW example to work in class ANSWERS.pdf",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "simple HW example to work in class ANSWERS.pdf",
+      "title": "simple HW example to work in class ANSWERS",
+      "ext": "pdf",
+      "size": 181370,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/simple%20HW%20example%20to%20work%20in%20class%20ANSWERS.pdf"
+    },
+    {
+      "path": "09 CH 23- The Evolution of Populations/simple HW example to work in class STUDENT HANDOUT.pdf",
+      "category": "09 CH 23- The Evolution of Populations",
+      "filename": "simple HW example to work in class STUDENT HANDOUT.pdf",
+      "title": "simple HW example to work in class STUDENT HANDOUT",
+      "ext": "pdf",
+      "size": 168202,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/09%20CH%2023-%20The%20Evolution%20of%20Populations/simple%20HW%20example%20to%20work%20in%20class%20STUDENT%20HANDOUT.pdf"
+    },
+    {
+      "path": "10 CH 24- The Origin of Species/CH 24 CW puzzle  ANSWERS.pdf",
+      "category": "10 CH 24- The Origin of Species",
+      "filename": "CH 24 CW puzzle  ANSWERS.pdf",
+      "title": "CH 24 CW puzzle  ANSWERS",
+      "ext": "pdf",
+      "size": 114720,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/10%20CH%2024-%20The%20Origin%20of%20Species/CH%2024%20CW%20puzzle%20%20ANSWERS.pdf"
+    },
+    {
+      "path": "10 CH 24- The Origin of Species/CH 24 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "category": "10 CH 24- The Origin of Species",
+      "filename": "CH 24 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "title": "CH 24 STUDENT outline (ADA pass) FALL 2026",
+      "ext": "pptx",
+      "size": 7229053,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/10%20CH%2024-%20The%20Origin%20of%20Species/CH%2024%20STUDENT%20outline%20(ADA%20pass)%20FALL%202026.pptx"
+    },
+    {
+      "path": "10 CH 24- The Origin of Species/CH 24 outline ADA.docx",
+      "category": "10 CH 24- The Origin of Species",
+      "filename": "CH 24 outline ADA.docx",
+      "title": "CH 24 outline ADA",
+      "ext": "docx",
+      "size": 255130,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/10%20CH%2024-%20The%20Origin%20of%20Species/CH%2024%20outline%20ADA.docx"
+    },
+    {
+      "path": "11 CH 25- The History of Life on Earth/ACTIVITY CH 25 questions ANSWERS.pdf",
+      "category": "11 CH 25- The History of Life on Earth",
+      "filename": "ACTIVITY CH 25 questions ANSWERS.pdf",
+      "title": "ACTIVITY CH 25 questions ANSWERS",
+      "ext": "pdf",
+      "size": 194727,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/11%20CH%2025-%20The%20History%20of%20Life%20on%20Earth/ACTIVITY%20CH%2025%20questions%20ANSWERS.pdf"
+    },
+    {
+      "path": "11 CH 25- The History of Life on Earth/ACTIVITY CH 25 questions.pdf",
+      "category": "11 CH 25- The History of Life on Earth",
+      "filename": "ACTIVITY CH 25 questions.pdf",
+      "title": "ACTIVITY CH 25 questions",
+      "ext": "pdf",
+      "size": 158873,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/11%20CH%2025-%20The%20History%20of%20Life%20on%20Earth/ACTIVITY%20CH%2025%20questions.pdf"
+    },
+    {
+      "path": "11 CH 25- The History of Life on Earth/CH 25 CW puzzle  ANSWERS.pdf",
+      "category": "11 CH 25- The History of Life on Earth",
+      "filename": "CH 25 CW puzzle  ANSWERS.pdf",
+      "title": "CH 25 CW puzzle  ANSWERS",
+      "ext": "pdf",
+      "size": 116104,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/11%20CH%2025-%20The%20History%20of%20Life%20on%20Earth/CH%2025%20CW%20puzzle%20%20ANSWERS.pdf"
+    },
+    {
+      "path": "11 CH 25- The History of Life on Earth/CH 25 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "category": "11 CH 25- The History of Life on Earth",
+      "filename": "CH 25 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "title": "CH 25 STUDENT outline (ADA pass) FALL 2026",
+      "ext": "pptx",
+      "size": 13316523,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/11%20CH%2025-%20The%20History%20of%20Life%20on%20Earth/CH%2025%20STUDENT%20outline%20(ADA%20pass)%20FALL%202026.pptx"
+    },
+    {
+      "path": "11 CH 25- The History of Life on Earth/CH 25 outline ADA.docx",
+      "category": "11 CH 25- The History of Life on Earth",
+      "filename": "CH 25 outline ADA.docx",
+      "title": "CH 25 outline ADA",
+      "ext": "docx",
+      "size": 480678,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/11%20CH%2025-%20The%20History%20of%20Life%20on%20Earth/CH%2025%20outline%20ADA.docx"
+    },
+    {
+      "path": "12 EXAM 1/CH 22 Review Questions.pdf",
+      "category": "12 EXAM 1",
+      "filename": "CH 22 Review Questions.pdf",
+      "title": "CH 22 Review Questions",
+      "ext": "pdf",
+      "size": 508436,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/12%20EXAM%201/CH%2022%20Review%20Questions.pdf"
+    },
+    {
+      "path": "12 EXAM 1/CH 23 Review Questions.pdf",
+      "category": "12 EXAM 1",
+      "filename": "CH 23 Review Questions.pdf",
+      "title": "CH 23 Review Questions",
+      "ext": "pdf",
+      "size": 415440,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/12%20EXAM%201/CH%2023%20Review%20Questions.pdf"
+    },
+    {
+      "path": "12 EXAM 1/CH 24 Review Questions.pdf",
+      "category": "12 EXAM 1",
+      "filename": "CH 24 Review Questions.pdf",
+      "title": "CH 24 Review Questions",
+      "ext": "pdf",
+      "size": 342680,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/12%20EXAM%201/CH%2024%20Review%20Questions.pdf"
+    },
+    {
+      "path": "12 EXAM 1/CH 25 Review Questions.pdf",
+      "category": "12 EXAM 1",
+      "filename": "CH 25 Review Questions.pdf",
+      "title": "CH 25 Review Questions",
+      "ext": "pdf",
+      "size": 366018,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/12%20EXAM%201/CH%2025%20Review%20Questions.pdf"
+    },
+    {
+      "path": "12 EXAM 1/EXAM 1 Review Pics on CH 22-25 FALL 2026.pptx",
+      "category": "12 EXAM 1",
+      "filename": "EXAM 1 Review Pics on CH 22-25 FALL 2026.pptx",
+      "title": "EXAM 1 Review Pics on CH 22 25 FALL 2026",
+      "ext": "pptx",
+      "size": 28705891,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/12%20EXAM%201/EXAM%201%20Review%20Pics%20on%20CH%2022-25%20FALL%202026.pptx"
+    },
+    {
+      "path": "12 EXAM 1/EXAM 1 on CH 22-25 Review Sheet FALL 2026.pdf",
+      "category": "12 EXAM 1",
+      "filename": "EXAM 1 on CH 22-25 Review Sheet FALL 2026.pdf",
+      "title": "EXAM 1 on CH 22 25 Review Sheet FALL 2026",
+      "ext": "pdf",
+      "size": 52872,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/12%20EXAM%201/EXAM%201%20on%20CH%2022-25%20Review%20Sheet%20FALL%202026.pdf"
+    },
+    {
+      "path": "12 EXAM 1/How do I best prepare for the EXAMS-.html",
+      "category": "12 EXAM 1",
+      "filename": "How do I best prepare for the EXAMS-.html",
+      "title": "How do I best prepare for the EXAMS",
+      "ext": "html",
+      "size": 8750,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/12%20EXAM%201/How%20do%20I%20best%20prepare%20for%20the%20EXAMS-.html"
+    },
+    {
+      "path": "12 EXAM 1/Project final grade in course BIOL 1202 Biological Sciences.xlsx",
+      "category": "12 EXAM 1",
+      "filename": "Project final grade in course BIOL 1202 Biological Sciences.xlsx",
+      "title": "Project final grade in course BIOL 1202 Biological Sciences",
+      "ext": "xlsx",
+      "size": 11733,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/12%20EXAM%201/Project%20final%20grade%20in%20course%20BIOL%201202%20Biological%20Sciences.xlsx"
+    },
+    {
+      "path": "12 EXAM 1/Students with ACCOMMODATIONS or registered through the OFFICE OF DISABILITY SERV.html",
+      "category": "12 EXAM 1",
+      "filename": "Students with ACCOMMODATIONS or registered through the OFFICE OF DISABILITY SERV.html",
+      "title": "Students with ACCOMMODATIONS or registered through the OFFICE OF DISABILITY SERV",
+      "ext": "html",
+      "size": 4142,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/12%20EXAM%201/Students%20with%20ACCOMMODATIONS%20or%20registered%20through%20the%20OFFICE%20OF%20DISABILITY%20SERV.html"
+    },
+    {
+      "path": "13 CH 26- Phylogeny and the Tree of Life/CH 26 CW puzzle  ANSWERS.pdf",
+      "category": "13 CH 26- Phylogeny and the Tree of Life",
+      "filename": "CH 26 CW puzzle  ANSWERS.pdf",
+      "title": "CH 26 CW puzzle  ANSWERS",
+      "ext": "pdf",
+      "size": 113146,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/13%20CH%2026-%20Phylogeny%20and%20the%20Tree%20of%20Life/CH%2026%20CW%20puzzle%20%20ANSWERS.pdf"
+    },
+    {
+      "path": "13 CH 26- Phylogeny and the Tree of Life/CH 26 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "category": "13 CH 26- Phylogeny and the Tree of Life",
+      "filename": "CH 26 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "title": "CH 26 STUDENT outline (ADA pass) FALL 2026",
+      "ext": "pptx",
+      "size": 4715369,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/13%20CH%2026-%20Phylogeny%20and%20the%20Tree%20of%20Life/CH%2026%20STUDENT%20outline%20(ADA%20pass)%20FALL%202026.pptx"
+    },
+    {
+      "path": "13 CH 26- Phylogeny and the Tree of Life/CH 26 Systematics MOODLE exercise ANSWERS.pdf",
+      "category": "13 CH 26- Phylogeny and the Tree of Life",
+      "filename": "CH 26 Systematics MOODLE exercise ANSWERS.pdf",
+      "title": "CH 26 Systematics MOODLE exercise ANSWERS",
+      "ext": "pdf",
+      "size": 708412,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/13%20CH%2026-%20Phylogeny%20and%20the%20Tree%20of%20Life/CH%2026%20Systematics%20MOODLE%20exercise%20ANSWERS.pdf"
+    },
+    {
+      "path": "13 CH 26- Phylogeny and the Tree of Life/CH 26 outline ADA.docx",
+      "category": "13 CH 26- Phylogeny and the Tree of Life",
+      "filename": "CH 26 outline ADA.docx",
+      "title": "CH 26 outline ADA",
+      "ext": "docx",
+      "size": 222435,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/13%20CH%2026-%20Phylogeny%20and%20the%20Tree%20of%20Life/CH%2026%20outline%20ADA.docx"
+    },
+    {
+      "path": "13 CH 26- Phylogeny and the Tree of Life/Ch 26 Systematics MOODLE exercise.pdf",
+      "category": "13 CH 26- Phylogeny and the Tree of Life",
+      "filename": "Ch 26 Systematics MOODLE exercise.pdf",
+      "title": "Ch 26 Systematics MOODLE exercise",
+      "ext": "pdf",
+      "size": 204479,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/13%20CH%2026-%20Phylogeny%20and%20the%20Tree%20of%20Life/Ch%2026%20Systematics%20MOODLE%20exercise.pdf"
+    },
+    {
+      "path": "13 CH 26- Phylogeny and the Tree of Life/Cladogram building exercise v8 ANSWERS.pdf",
+      "category": "13 CH 26- Phylogeny and the Tree of Life",
+      "filename": "Cladogram building exercise v8 ANSWERS.pdf",
+      "title": "Cladogram building exercise v8 ANSWERS",
+      "ext": "pdf",
+      "size": 47020,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/13%20CH%2026-%20Phylogeny%20and%20the%20Tree%20of%20Life/Cladogram%20building%20exercise%20v8%20ANSWERS.pdf"
+    },
+    {
+      "path": "13 CH 26- Phylogeny and the Tree of Life/Reindeer cladogram in-class exercise and ANSWER KEY.pdf",
+      "category": "13 CH 26- Phylogeny and the Tree of Life",
+      "filename": "Reindeer cladogram in-class exercise and ANSWER KEY.pdf",
+      "title": "Reindeer cladogram in class exercise and ANSWER KEY",
+      "ext": "pdf",
+      "size": 223823,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/13%20CH%2026-%20Phylogeny%20and%20the%20Tree%20of%20Life/Reindeer%20cladogram%20in-class%20exercise%20and%20ANSWER%20KEY.pdf"
+    },
+    {
+      "path": "13 CH 26- Phylogeny and the Tree of Life/Reindeer cladogram in-class exercise.pdf",
+      "category": "13 CH 26- Phylogeny and the Tree of Life",
+      "filename": "Reindeer cladogram in-class exercise.pdf",
+      "title": "Reindeer cladogram in class exercise",
+      "ext": "pdf",
+      "size": 137357,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/13%20CH%2026-%20Phylogeny%20and%20the%20Tree%20of%20Life/Reindeer%20cladogram%20in-class%20exercise.pdf"
+    },
+    {
+      "path": "13 CH 26- Phylogeny and the Tree of Life/Tree Building Exercise Example Men In Hats.pptx",
+      "category": "13 CH 26- Phylogeny and the Tree of Life",
+      "filename": "Tree Building Exercise Example Men In Hats.pptx",
+      "title": "Tree Building Exercise Example Men In Hats",
+      "ext": "pptx",
+      "size": 273041,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/13%20CH%2026-%20Phylogeny%20and%20the%20Tree%20of%20Life/Tree%20Building%20Exercise%20Example%20Men%20In%20Hats.pptx"
+    },
+    {
+      "path": "14 CH 27- Bacteria and Archaea/ACTIVITY CH 27 questions.pdf",
+      "category": "14 CH 27- Bacteria and Archaea",
+      "filename": "ACTIVITY CH 27 questions.pdf",
+      "title": "ACTIVITY CH 27 questions",
+      "ext": "pdf",
+      "size": 126913,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/14%20CH%2027-%20Bacteria%20and%20Archaea/ACTIVITY%20CH%2027%20questions.pdf"
+    },
+    {
+      "path": "14 CH 27- Bacteria and Archaea/CH 27 CW puzzle  ANSWERS.pdf",
+      "category": "14 CH 27- Bacteria and Archaea",
+      "filename": "CH 27 CW puzzle  ANSWERS.pdf",
+      "title": "CH 27 CW puzzle  ANSWERS",
+      "ext": "pdf",
+      "size": 121833,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/14%20CH%2027-%20Bacteria%20and%20Archaea/CH%2027%20CW%20puzzle%20%20ANSWERS.pdf"
+    },
+    {
+      "path": "14 CH 27- Bacteria and Archaea/CH 27 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "category": "14 CH 27- Bacteria and Archaea",
+      "filename": "CH 27 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "title": "CH 27 STUDENT outline (ADA pass) FALL 2026",
+      "ext": "pptx",
+      "size": 6040738,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/14%20CH%2027-%20Bacteria%20and%20Archaea/CH%2027%20STUDENT%20outline%20(ADA%20pass)%20FALL%202026.pptx"
+    },
+    {
+      "path": "14 CH 27- Bacteria and Archaea/CH 27 outline ADA.docx",
+      "category": "14 CH 27- Bacteria and Archaea",
+      "filename": "CH 27 outline ADA.docx",
+      "title": "CH 27 outline ADA",
+      "ext": "docx",
+      "size": 216509,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/14%20CH%2027-%20Bacteria%20and%20Archaea/CH%2027%20outline%20ADA.docx"
+    },
+    {
+      "path": "15 CH 28- Protists/ACTIVITY CH 28 questions.pdf",
+      "category": "15 CH 28- Protists",
+      "filename": "ACTIVITY CH 28 questions.pdf",
+      "title": "ACTIVITY CH 28 questions",
+      "ext": "pdf",
+      "size": 85822,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/15%20CH%2028-%20Protists/ACTIVITY%20CH%2028%20questions.pdf"
+    },
+    {
+      "path": "15 CH 28- Protists/CH 28 CW puzzle  ANSWERS.pdf",
+      "category": "15 CH 28- Protists",
+      "filename": "CH 28 CW puzzle  ANSWERS.pdf",
+      "title": "CH 28 CW puzzle  ANSWERS",
+      "ext": "pdf",
+      "size": 119015,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/15%20CH%2028-%20Protists/CH%2028%20CW%20puzzle%20%20ANSWERS.pdf"
+    },
+    {
+      "path": "15 CH 28- Protists/CH 28 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "category": "15 CH 28- Protists",
+      "filename": "CH 28 STUDENT outline (ADA pass) FALL 2026.pptx",
+      "title": "CH 28 STUDENT outline (ADA pass) FALL 2026",
+      "ext": "pptx",
+      "size": 9066246,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/15%20CH%2028-%20Protists/CH%2028%20STUDENT%20outline%20(ADA%20pass)%20FALL%202026.pptx"
+    },
+    {
+      "path": "15 CH 28- Protists/CH 28 outline ADA.docx",
+      "category": "15 CH 28- Protists",
+      "filename": "CH 28 outline ADA.docx",
+      "title": "CH 28 outline ADA",
+      "ext": "docx",
+      "size": 156588,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/15%20CH%2028-%20Protists/CH%2028%20outline%20ADA.docx"
+    },
+    {
+      "path": "Class Docs",
+      "category": "Course home",
+      "filename": "Class Docs",
+      "title": "Class Docs",
+      "ext": "file",
+      "size": 1,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/Class%20Docs"
+    },
+    {
+      "path": "Links and notes from the course page.html",
+      "category": "Course home",
+      "filename": "Links and notes from the course page.html",
+      "title": "Links and notes from the course page",
+      "ext": "html",
+      "size": 6220,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/Links%20and%20notes%20from%20the%20course%20page.html"
+    },
+    {
+      "path": "README.md",
+      "category": "Course home",
+      "filename": "README.md",
+      "title": "README",
+      "ext": "md",
+      "size": 35,
+      "url": "https://github.com/HopeResuscitated/BIO1202-/blob/main/README.md"
+    }
+  ]
+}
