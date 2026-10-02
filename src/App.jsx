@@ -59,7 +59,7 @@ export default function App(){
    const next={...base,status:nextStatus,stepIndex:done?step:nextIndex,complete:done};
    saveProgress(active.path,next);
    if(done){
-     const n=[...new Set([...understood,active.path])];setUnderstood(n);setStored('biostudy-understood',n);
+     const n=[...new Set([...understood,active.path])];setUnderstood(n);setStored('biostudy-understood',n);setActive(null);setFeedback([]);setHint('');
    } else {
      const ns=currentGuide.steps[nextIndex];
      setStep(nextIndex);setAnswer(next.answers?.[ns.id]||'');setFeedback(next.feedback?.[ns.id]||[]);setHint(next.hints?.[ns.id]||'');
@@ -116,7 +116,7 @@ export default function App(){
 
  {page==='Tutor'&&<section><div className="eyebrow">— ASSIGNMENT TUTOR</div><h1 className="pagetitle">{active?active.title:'Work through it with me.'}</h1><p className="intro">{active?'Each step is checked against the assignment/course material. Fix gaps, ask for a hint, or skip a step you already understand.':'Choose a real BIOL 1202 assignment. The tutor turns it into a checked walkthrough rather than a generic chat.'}</p>
  {!active?<div className="assignmentgrid">{assignments.map(f=>{const p=progress[f.path];return <div className="assignmentcard" key={f.path}><div className="assignmenttop"><span className={'fileicon ext-'+f.ext}>{icon(f.ext)}</span><span><b>{f.title}</b><small>{assignmentType(f)} · {f.category}</small></span></div><div className="assignmentstatus">{p?.complete||understood.includes(f.path)?'Understood / complete':p?'In progress':'Not started'}</div><div className="assignmentactions"><a href={f.url} target="_blank" rel="noreferrer">Open class file ↗</a><button onClick={()=>startTutor(f)}>{p?'Resume tutor →':'Start tutor →'}</button></div></div>})}</div>
- :<div className="tutorbox"><div className="tutorhead"><div><span className="eyebrow">NOW WORKING ON · STEP {step+1} OF {currentGuide.steps.length}</span><h2>{currentStep.title}</h2><small>{active.category}</small></div><button onClick={()=>{setActive(null);setFeedback([]);setHint('');}}>← Choose another</button></div>
+ :<div className="tutorbox"><div className="tutorhead"><div><span className="eyebrow">NOW WORKING ON · STEP {step+1} OF {currentGuide.steps.length}</span><h2>{currentStep.title}</h2><small>{active.category} · <a className="classlink" href={active.url} target="_blank" rel="noreferrer">Open assignment ↗</a></small></div><button onClick={()=>{setActive(null);setFeedback([]);setHint('');}}>← Choose another</button></div>
   <div className="progress"><span style={{width:(((step+1)/currentGuide.steps.length)*100)+'%'}}/></div>
   <div className="stepmeta">STEP {step+1} OF {currentGuide.steps.length} · {currentGuide.steps.filter((x,i)=>progress[active.path]?.status?.[x.id]&&i<=step).length} CHECKED</div>
   <article className="tutorstep"><div className="stepnum">{step+1}</div><div className="stepbody"><p className="stepinstruction">{currentStep.detail}</p><div className="why"><b>Why this matters</b><span>Being able to explain this step is what tells us you understand the assignment rather than only following an answer.</span></div>
