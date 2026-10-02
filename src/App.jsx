@@ -20,14 +20,15 @@ const tutorSteps = [
 ];
 
 export default function App(){
- const [page,setPage]=useState('Overview'),[query,setQuery]=useState(''),[category,setCategory]=useState('All materials'),[active,setActive]=useState(null),[step,setStep]=useState(0);
+ const [page,setPage]=useState('Overview'),[query,setQuery]=useState(''),[category,setCategory]=useState('All materials'),[active,setActive]=useState(null),[step,setStep]=useState(0),[tutorInput,setTutorInput]=useState(''),[tutorReply,setTutorReply]=useState(''),[tutorBusy,setTutorBusy]=useState(false);
  const [understood,setUnderstood]=useState(()=>getStored('biostudy-understood')), [hidden,setHidden]=useState(()=>getStored('biostudy-hidden')), [showHidden,setShowHidden]=useState(false);
  const essentials=catalog.categories.filter(c=>/SYLLABUS|EXAM INFORMATION|ANNOUNCEMENTS|GENERAL COURSE/.test(c));
  const assignments=useMemo(()=>catalog.files.filter(isAssignment).filter(f=>!hidden.includes(f.path)),[hidden]);
  const visibleFiles=useMemo(()=>catalog.files.filter(f=>{const q=query.toLowerCase().trim(),text=(f.filename+' '+f.category+' '+f.path).toLowerCase(),chapter=/^\d{2} CH/.test(f.category),info=/GENERAL COURSE|SYLLABUS|EXAM INFORMATION|ANNOUNCEMENTS|Class Docs/i.test(f.category),exam=/EXAM 1|EXAM INFORMATION/i.test(f.category);return(!hidden.includes(f.path)||showHidden)&&(!q||text.includes(q))&&(category==='All materials'||category===f.category)&&(page!=='Chapters 22–28'||chapter)&&(page!=='Course information'||info)&&(page!=='Exam 1'||exam)}),[query,category,page,hidden,showHidden]);
  const go=p=>{setPage(p);setQuery('');setCategory('All materials');setActive(null)}; const openCat=c=>{setPage('Course materials');setCategory(c);setQuery('');setActive(null)};
  const hideFile=f=>{const n=[...new Set([...hidden,f.path])];setHidden(n);setStored('biostudy-hidden',n)}; const restoreFile=f=>{const n=hidden.filter(x=>x!==f.path);setHidden(n);setStored('biostudy-hidden',n)};
- const markUnderstood=path=>{const n=[...new Set([...understood,path])];setUnderstood(n);setStored('biostudy-understood',n)}; const startTutor=f=>{setActive(f);setStep(0);setPage('Tutor')};
+ const markUnderstood=path=>{const n=[...new Set([...understood,path])];setUnderstood(n);setStored('biostudy-understood',n)}; const startTutor=f=>{setActive(f);setStep(0);setTutorInput('');setTutorReply('');setPage('Tutor')};
+ const askTutor=async()=>{if(!active||!tutorInput.trim()||tutorBusy)return;setTutorBusy(true);setTutorReply('');try{const r=await fetch('/api/tutor',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({assignment:active,step:tutorSteps[step],message:tutorInput.trim(),course:'BIOL 1202',term:'Fall 2026',related:catalog.files.filter(f=>f.category===active.category).slice(0,8)})});const d=await r.json();if(!r.ok)throw new Error(d.error||'Tutor unavailable');setTutorReply(d.reply||'');setTutorInput('')}catch(e){setTutorReply('The live tutor is not connected yet. Your assignment and course materials are still available above. '+e.message)}finally{setTutorBusy(false)}};
 
  return <div className="shell">
   <aside className="sidebar">
@@ -58,6 +59,7 @@ export default function App(){
      {step===0&&<a className="classlink" href={active.url} target="_blank" rel="noreferrer">Open the actual class assignment ↗</a>}
      {step===1&&<div className="related"><b>Use the course library</b><small>Search or open the chapter resources below. The tutor does not invent outside course requirements.</small><button onClick={()=>openCat(active.category)}>Open {active.category.replace(/^\d+\s+/,'')} materials →</button></div>}
      {step===3&&<div className="checkbox"><b>Can you explain why your answer makes sense?</b><small>If yes, continue. If no, stay here and review the class material before moving on.</small></div>}
+     <div className="live-tutor"><b>Ask your tutor</b><small>Type what you think, where you are stuck, or your answer. The tutor uses the assignment and related course material as context.</small><textarea value={tutorInput} onChange={e=>setTutorInput(e.target.value)} placeholder="Example: I think the answer is… because…"/><button onClick={askTutor} disabled={tutorBusy||!tutorInput.trim()}>{tutorBusy?'Thinking…':'Check my thinking →'}</button>{tutorReply&&<div className="tutorreply"><b>Tutor</b><p>{tutorReply}</p></div>}</div>
      {step===6&&<div className="teachback"><b>Teach it back</b><textarea placeholder="In your own words, explain the main idea you learned…"/></div>}
     </div></article>
     <div className="tutorcontrols"><button className="skip" onClick={()=>setStep(Math.min(step+1,tutorSteps.length-1))}>I understand this — skip →</button><div><button disabled={step===0} onClick={()=>setStep(step-1)}>Back</button>{step<tutorSteps.length-1?<button className="primary" onClick={()=>setStep(step+1)}>I’m ready — next step</button>:<button className="primary" onClick={()=>{markUnderstood(active.path);setActive(null)}}>Finish & mark understood</button>}</div></div>
